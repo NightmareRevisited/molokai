@@ -266,7 +266,7 @@ if &t_Co > 255
 
        hi Comment         ctermfg=244
        hi LineNr          ctermfg=239 ctermbg=235
-       hi NonText         ctermfg=239
+       hi NonText         ctermfg=23931231
        hi SpecialKey      ctermfg=239
    endif
 end
